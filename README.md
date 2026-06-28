@@ -92,8 +92,8 @@ python3 text_count.py
 python3 lyrica_album_visualizer.py
 ```
 ## Shannon / Fisher Analysis
-<img src="Output_mean_shannon_by_song.png" width="40%">
-<img src="Output_mean_action_fisher_by_song.png" width="40%">
+<img src="/images/Output_mean_shannon_by_song.png" width="40%">
+<img src="/images/Output_mean_action_fisher_by_song.png" width="40%">
 
 
 ## Status
