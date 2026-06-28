@@ -85,8 +85,6 @@ python3 lyrica_album_visualizer.py
 <img src="Output_mean_shannon_by_song.png" width="40%">
 
 
-
-
 ## Status
 
 Current version: experimental research prototype.
