@@ -81,6 +81,12 @@ pip install matplotlib wordfreq
 python3 text_count.py
 python3 lyrica_album_visualizer.py
 ```
+## Shannon / Fisher Analysis
+
+![Shannon](images/Output_mean_shannon_by_song.png)
+![Distribution by song](Output_pos_distribution_by_song.png)
+
+
 
 ## Status
 
