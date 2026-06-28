@@ -3,6 +3,10 @@
 **LYRICA** is a lightweight computational lyrics analysis toolkit for album-level and discography-level text analysis.
 The project does not use machine learning, neural networks, embeddings, or generative AI. It extracts deterministic statistical, lexical, structural, and information-theoretic descriptors from song lyrics.
 
+## Documentation
+
+📄 [LYRICA Mathematical Background](pdf/LYRICA_Mathematical_Background.pdf)
+
 ## Current tools
 
 ### 1. `text_count.py`
