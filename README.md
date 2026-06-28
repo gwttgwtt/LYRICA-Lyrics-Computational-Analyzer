@@ -29,6 +29,16 @@ Output:
 * `*_analysis.txt`
 * `*_song_statistics.csv`
 
+Shannon Entropy
+
+H = −Σ pᵢ log₂(pᵢ)
+
+pᵢ = nᵢ / N
+
+Lexical Fisher
+
+F = Σ (Hᵢ₊₁ − Hᵢ)² / (Hᵢ + ε)
+
 ### 2. `lyrica_album_visualizer.py`
 
 Album and discography visualization helper.
