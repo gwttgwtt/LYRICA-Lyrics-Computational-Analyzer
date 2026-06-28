@@ -5,7 +5,7 @@ The project does not use machine learning, neural networks, embeddings, or gener
 
 ## Documentation
 
-📄 [LYRICA Mathematical Background](pdf/LIRICA.pdf)
+[LYRICA Mathematical Background](/pdf/LIRICA.pdf)
 
 ## Current tools
 
